@@ -4,7 +4,7 @@ Software Engineer with 3+ years of experience in scalable distributed systems, m
 
 📍 Chicago, IL · 📧 gnanapmanikanti@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanapm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanaprakash-manikanti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gnanaprakashmanikanti)
 
 ---
